@@ -12,7 +12,7 @@ function copy() {
   let textohtml = document.querySelector(".mensaje");
   let texto = textohtml.innerHTML;
    copiador.innerHTML = texto;
-   console.log(copiador) 
+    
     copiador.select();
     document.execCommand("copy");
     copiador.classList.add("escondido");
