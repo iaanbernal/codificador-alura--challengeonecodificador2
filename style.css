@@ -1,0 +1,172 @@
+#imagen1{
+  display: inline-block;
+    width: 31px;
+    height: 48px;
+    margin-left: 80px;
+    margin-top: 40px;
+}
+
+body{
+    background-color: #E5E5E5;
+}
+
+.input-texto{
+    position: absolute;
+    top: 50px;
+    left: 261px;;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+   
+    
+}
+
+header p{
+    display: inline-block;
+}
+
+.texto::placeholder{
+    color: #0A3871;
+    font-size: 32px;
+    font-weight: 400;
+    
+}
+
+
+
+
+
+.texto{
+
+ border: none;
+ background-color: #E5E5E5;
+ font-size: 32px;
+ height: 475px;
+ width: 500px;
+ display: inline-block;
+
+}
+
+
+
+.texto:hover{
+    text-decoration: underline blue;
+    
+}
+
+.encriptado{
+    position:absolute;
+    top: 40px;
+    left: 1000px;
+
+
+    display: inline-block;
+    text-align: center;
+    background-color: white;
+    
+    width: 250px;
+    height: 294px;
+    padding: 150px 0;
+    border-radius: 32px;
+}
+
+.muñeco{
+    width: 200px;
+    height: 200px;
+    
+}
+
+.grande{
+    font-weight: bold;
+    font-size: 24px;
+}
+.pequeña{
+    font-size: 16px;
+}
+
+
+
+.botones{
+    display: inline-block;
+    
+    
+
+    position: absolute;
+    top: 531px;
+    left: 261px;
+    
+   
+}
+
+.sugerencia{
+    color: gray;
+    margin-bottom:20px;
+    font-size: 12px
+}
+
+.divenc{
+    display: inline-block;
+}
+
+.divenc button{
+   background-color: #0A3871;
+   color: white;
+   text-align: center;
+   width: 240px;
+   height: 67px;
+   border-radius: 24px;
+   
+}
+
+.divdes{
+    display: inline-block;
+
+}
+
+.divdes button{
+    background-color: #D8DFE8;
+    color: darkblue;
+    text-align: center;
+    width: 240px;
+    height: 67px;
+    border-radius: 24px;
+    padding: 0 24px;
+    border-width: 2px;
+    border-color: #0A3871;
+}
+
+.escondido{
+    display: none;
+}
+
+.mensaje{
+    margin: auto;
+    padding: 0 32px ;
+    position: relative ;
+    top: -120px;
+    background-color: gray;
+    font-size: 24px;
+   
+}
+
+.copiar{
+    position: absolute;
+    top: 540px;
+    left: 25px;
+
+    
+}
+
+
+.copiar-boton{
+    background-color: #D8DFE8;
+    color: darkblue;
+    text-align: center;
+    width: 200px;
+    height: 47px;
+    border-radius: 24px;
+    padding: 0 24px;
+    border-width: 2px;
+    border-color: #0A3871;
+    
+}
