@@ -77,3 +77,5 @@ botonencriptar.addEventListener("click",function(event){
       }
      return substringviejo
     }
+
+    // David Oscar Bernhardt
